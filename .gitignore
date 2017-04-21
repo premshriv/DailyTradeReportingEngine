@@ -1,0 +1,20 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#IntelliJ
+.idea/**
+*.iml
+
+#Maven
+target/**
+
+**/*.log*
+
+#Other
+.DS_Store
+.idea/
+
